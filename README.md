@@ -3,7 +3,6 @@
 
 
 **Driving innovation with scalable full-stack solutions and strategic technology consulting.**
-**The architect with an overlap into development and analysis.**
 
 ## 🚀 What I Offer
 
