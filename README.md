@@ -1,16 +1,88 @@
-## Hi there 👋
+# Full Stack Consultant 
+<hr>
+
+
+**Driving innovation with scalable full-stack solutions and strategic technology consulting.**
+**The architect with an overlap into development and analysis.**
+
+## 🚀 What I Offer
+
+✔ full-stack solutions    
+
+<hr>
+
+ **Almost everything is possible, it's just a matter of ⌚ Time 💰 Resources  ⭐ Quality**
+ 
+<hr>
+ 
+
+
+<a href="https://www.punitkatiyar.com/"><img src="techunitbook.gif" width="40%" height="250px"></a>
+ 
+ ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=punitkatiyar)
+
+<hr>
+
+### 🎪 **Frontend :** HTML , CSS , JavaScript , EcmsScript 
+
+### 🌱 **Libraries :** Bootstrap, TailwindCSS, , JQuery , React ...
+
+### 👨‍💻 **Backend :** Node, ExpressJS...
+
+### 💬 **Database :** MongoDB, SQLite ...
+
+<hr>
 
 <!--
-**informkhush/informkhush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Responsibilities and skills of a full stack freelancer and consultant
+**Developing and maintaining websites, web applications, or software solutions.**
+
+**Collaborating with clients or project stakeholders to understand their requirements and translate them into technical specifications.**
+
+**Designing and implementing user interfaces (UI) and user experiences (UX) that are visually appealing, intuitive, and responsive.**
+
+**Creating and managing databases, ensuring efficient data storage and retrieval.**
+
+**Building and integrating APIs for seamless communication between different components of a system.**
+
+**Implementing security measures to protect applications and user data.**
+
+**Writing clean, well-documented, and maintainable code.**
+
+**Conducting thorough testing and debugging to identify and fix issues.**
+
+**Providing technical guidance, recommendations, and support to clients or project teams.**
+
+**Staying updated with the latest industry trends, technologies, and best practices.**
 -->
+
+
+
+
+  
+
+<!--#html-master-guide #css-master-guide
+
+# wd [ uko ,rin , wtg , qpf ]
+
+# WE [ amb , sot  ]
+https://punitkatiyar.github.io/
+
+https://designer.microsoft.com/
+-->
+
+
+
+
+
+<!-- <img src="https://punitkatiyar.github.io/profile_as_a%20developer.png" width="100%"> -->
+
+<!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7059503242111557632" height="633" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
+<!-- <img src="https://user-images.githubusercontent.com/1016365/34124854-48fafa06-e3e9-11e7-8c04-251055feebee.png"> -->
+
+
+
